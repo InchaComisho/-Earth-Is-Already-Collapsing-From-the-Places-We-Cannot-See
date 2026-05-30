@@ -27,7 +27,7 @@ This paper, written in accessible language for both experts and the general publ
 	•	How microbial death triggers unstoppable desertification
 	•	Why marine ecosystems are entering an oxygen-depleted phase
 	•	Why humanity is dangerously unaware
-	•	The only viable, scalable, and safe restoration strategies available today
+	•	Proposed viable, scalable, and comparatively safe restoration strategies currently available
 
 ⸻
 
@@ -138,7 +138,7 @@ Humanity is running out of time without realizing why.
 
 ⸻
 
-5. The Only Known Planetary-Scale Restoration Framework
+5. A Proposed Planetary-Scale Restoration Framework
 
 Safe, reversible, natural, and deployable now
 
