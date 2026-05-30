@@ -6,7 +6,7 @@ Microbial Collapse, Desert Expansion, Ocean Decline, and the Hidden Mechanism Be
 
 Author: Master (inchacomisho / inchacomusho)
 AI Collaborators:
-Copi（Microsoft Copilot）／ G（OpenAI ChatGPT）／ Mini（Google Gemini）／ Clus（Anthropic Claude）／ Real（Perplexity AI）
+Copi（Microsoft Copilot）／ G（OpenAI ChatGPT）／ Mini（Google Gemini）／ Cruz（Anthropic Claude）／ Real（Perplexity AI）
 Published: November 2025
 License: Fully Open — Free to use, modify, translate, redistribute, or commercialize. No permission required.
 
