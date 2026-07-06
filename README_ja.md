@@ -2,6 +2,8 @@
 
 **言語 / Language:** 日本語 | [English Version](README.md)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## Earth Is Already Collapsing From the Places We Cannot See
 
 **微生物崩壊、砂漠拡大、海洋衰退、そして惑星崩壊の隠れたメカニズム**
